@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Pak Tukang</string>
+    <string name="e_mail">E-mail</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="belum_punya_akun_sign_up_disini">Belum punya akun? Daftar disini</string>
+    <string name="nama">Nama</string>
+    <string name="umur">Umur</string>
+    <string name="sign_up">Daftar</string>
+    <string name="login_error_message">Field yang kosong harus diisi</string>
+    <string name="login_error_tittle">Error!</string>
+    <string name="signup_error_message">Field yang kosong harus diisi</string>
+    <string name="signup_error_tittle">Error!</string>
+    <string name="signup_succes">Sukses! Sekarang kamu bisa login</string>
+    <string name="add_item">Tamah item</string>
+    <string name="action_logout">logout</string>
+    <string name="salah_password">Password salah!</string>
+    <string name="salah_email">Email tidak terdaftar</string>
+    <string name="jaringan_error">cek jaringan anda!</string>
+    <string name="pass_not_match">Password tidak sama, pada confirm password</string>
+    <string name="loading">Loading..</string>
+    <string name="action_search">cari</string>
+
+    <string name="lorem">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean nec condimentum ante, quis mattis mi. Proin ut rhoncus libero, ac euismod neque. Ut suscipit, enim a facilisis consequat, orci lacus venenatis orci, at ultricies orci nulla sed ex. In condimentum viverra velit, eget feugiat libero imperdiet vel. Aenean pretium, lectus vitae bibendum bibendum, diam turpis convallis eros, quis tristique leo sapien at ipsum. Praesent eu odio id nulla lobortis auctor. Donec eget dolor eget nisl euismod commodo vel a lacus. Quisque ut justo vitae urna pharetra accumsan. Etiam dignissim neque iaculis mauris viverra, blandit rhoncus odio porttitor. Phasellus nibh arcu.</string>
+    <string name="gagal_autentifikasi">gagal autentifikasi</string>
+    <string name="wajib">wajib</string>
+    <string name="minimal_6_kar">min 6 karakter</string>
+    <string name="password_tidak_sama">pass tidak sama</string>
+
+
+</resources>

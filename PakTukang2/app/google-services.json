@@ -1,0 +1,125 @@
+{
+  "project_info": {
+    "project_number": "498123153791",
+    "firebase_url": "https://pak-tukang.firebaseio.com",
+    "project_id": "pak-tukang",
+    "storage_bucket": "pak-tukang.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:498123153791:android:0001b63e62857418",
+        "android_client_info": {
+          "package_name": "com.wisnu.paktukang"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "498123153791-filfbh4hbvubu646l40qasbrk89u1fl7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wisnu.paktukang",
+            "certificate_hash": "23719763D9BCA0CF6CF05A6CA5F3D443132F01E9"
+          }
+        },
+        {
+          "client_id": "498123153791-qntljj6gr5f31ih9mqmcl9vsahbsocqk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYyoAP1SI4KC2XmTFBFMC3DwA-AKPJgQI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:498123153791:android:d60267100d1c9ce4",
+        "android_client_info": {
+          "package_name": "com.wisnu.daftarpaktukang"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "498123153791-748oi4fue3m8pru6bhdpapnv2vhu7ncc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wisnu.daftarpaktukang",
+            "certificate_hash": "23719763D9BCA0CF6CF05A6CA5F3D443132F01E9"
+          }
+        },
+        {
+          "client_id": "498123153791-qntljj6gr5f31ih9mqmcl9vsahbsocqk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYyoAP1SI4KC2XmTFBFMC3DwA-AKPJgQI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "498123153791-qntljj6gr5f31ih9mqmcl9vsahbsocqk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:498123153791:android:47e05f1cb2043035",
+        "android_client_info": {
+          "package_name": "com.wisnu.paktukang2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "498123153791-qntljj6gr5f31ih9mqmcl9vsahbsocqk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYyoAP1SI4KC2XmTFBFMC3DwA-AKPJgQI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
